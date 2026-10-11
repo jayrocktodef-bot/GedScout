@@ -1,0 +1,6 @@
+{
+  "name": "GED Scout",
+  "description": "Client-side GEDCOM file doctor and tree editor for genealogists. Audits integrity, merges duplicates, normalizes dates and names, and safely repairs family trees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
